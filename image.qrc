@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgk.jpg</file>
+        <file>3.png</file>
+        <file>5.png</file>
+        <file>bk.png</file>
+        <file>shu.png</file>
+        <file>shu2.png</file>
+        <file>back.mp3</file>
+        <file>ping.wav</file>
+        <file>350.png</file>
+    </qresource>
+</RCC>
